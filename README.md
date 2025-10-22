@@ -66,14 +66,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ncdt)
-<span style="margin: 0 10px; color: #555;">|</span>
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
-<span style="margin: 0 10px; color: #555;">|</span>
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nionczryll28@gmail.com)
 
 </div>
-
-<hr style="border: 0.5px solid #333; margin-top: 20px;">
 
 ---
 
