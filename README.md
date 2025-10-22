@@ -1,7 +1,7 @@
 <!-- 🧠 tok1moto / README.md -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=APIs+%7C+Microservices;Docker+%7C+Containers;Database+Design+%7C+Optimizations" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=header&text=tok1moto%20🚀&fontSize=40&fontColor=FFFFFF"/>
 </div>
 
 ---
