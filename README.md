@@ -2,8 +2,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=header&text=tok1moto%20🚀&fontSize=40&fontColor=FFFFFF"/>
-  <p><b>Backend Developer</b> | API Engineer | System Builder</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tok1moto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
+  <p><b>Backend Developer</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=footer"/>
 </div>
 
