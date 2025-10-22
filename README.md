@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=header&text=tok1moto%20🚀&fontSize=40&fontColor=FFFFFF"/>
-  <p><b>Backend Developer</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=footer"/>
 </div>
 
 ---
