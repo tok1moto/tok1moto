@@ -1,7 +1,7 @@
 <!-- 🧠 tok1moto / README.md -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋+I'm+tok1moto;Backend+Developer+%7C+System+Builder+%7C+API+Craftsman;Turning+Logic+into+Elegant+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=APIs+%7C+Microservices;Docker+%7C+Containers;Database+Design+%7C+Optimizations" alt="Typing SVG" />
 </div>
 
 ---
