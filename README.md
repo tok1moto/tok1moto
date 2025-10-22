@@ -68,6 +68,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ncdt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black)](#)
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nionczryll28@gmail.com)
+[![Github](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=github&logoColor=white)](mailto:nionczryll28@gmail.com)
 
 </div>
 
